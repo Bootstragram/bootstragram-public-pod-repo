@@ -1,3 +1,6 @@
+**⚠︎ BSGUtilities is now available on the main Cocoapods repo. 
+This repo will be closed at some point.**
+
 # bootstragram-public-pod-repo
 
 Bootstragram's Public CocoaPods repository
